@@ -27,14 +27,17 @@
 
 ---
 
+<p>&nbsp;</p>
 <h2 id="overview"> :memo: Project Overview </h2>
 
 An eCommerce app that integrates Google Analytics API to provide various product recommendations based on products' popularity and/or users' purchasing habits.
 
+<p>&nbsp;</p>
 <h2 id="demo"> :gear: Demo </h2>
 
 Link to the working demo of the app: https://upon-cart-app.herokuapp.com/
 
+<p>&nbsp;</p>
 <h2 id="features"> :bulb: Main Features </h2>
 
 - **User Authentication:**
@@ -56,6 +59,7 @@ Link to the working demo of the app: https://upon-cart-app.herokuapp.com/
   - Integrates PayPal API to process users' payments.
   - Allows users to view their order history.
 
+<p>&nbsp;</p>
 <h2 id="tech"> :hammer_and_wrench: Technologies Used </h2>
 
 | Name | Description |
@@ -67,6 +71,7 @@ Link to the working demo of the app: https://upon-cart-app.herokuapp.com/
 | [Heroku](https://www.heroku.com/home) | A cloud platform as a service that allows developers to deploy, run, and scale applications. |
 | Main Languages | PHP, HTML5 & CSS, JavaScript, SQL. |
 
+<p>&nbsp;</p>
 <h2 id="screens"> :camera_flash: Screenshots </h2>
 
 Coming soon...
