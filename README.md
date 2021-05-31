@@ -1,62 +1,72 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<h1 align="center">
+  <br>
+    <img src="https://user-images.githubusercontent.com/41291862/120219133-966cf680-c1ef-11eb-9ca6-cb52f55bcf77.png">
+  <br>
+    UpOn Cart
+  <br>
+</h1>
+
+---
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <a href="https://github.com/tylerhgv/upon-cart-app/releases">
+    <img src="https://img.shields.io/github/tag/tylerhgv/upon-cart-app.svg">
+  </a>
+  <a href="https://github.com/tylerhgv/upon-cart-app/issues/">
+    <img src="https://img.shields.io/github/issues/tylerhgv/upon-cart-app.svg">
+  </a>
 </p>
 
-## About Laravel
+<p align="center">
+  <a href="#overview">Project Overview</a> •
+  <a href="#demo">Demo</a> •
+  <a href="#features">Main Features</a> •
+  <a href="#tech">Technologies Used</a> •
+  <a href="#screens">Screenshots</a>
+</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<h2 id="overview"> :memo: Project Overview </h2>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+An eCommerce app that integrates Google Analytics API to provide various product recommendations based on products' popularity and/or users' purchasing habits.
 
-## Learning Laravel
+<h2 id="demo"> :gear: Demo </h2>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Link to the working demo of the app: https://upon-cart-app.herokuapp.com/
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<h2 id="features"> :bulb: Main Features </h2>
 
-## Laravel Sponsors
+- **User Authentication:**
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+  - Allows users to create & edit their accounts.
+  - Allows registered users to login with their accounts.
 
-### Premium Partners
+- **Product Browsing/Recommendation:**
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
+  - Provides useful filters for browsing products.
+  - Allows users to search for a product and view product details.
+  - Integrates Google Analytics API to collect data about users & products.
+  - Provides recommendations of popular products.
+  - Provides tailored recommendations based on users' data.
 
-## Contributing
+- **Payment & Order:**
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+  - Allows users to view & edit their shopping carts.
+  - Integrates PayPal API to process users' payments.
+  - Allows users to view their order history.
 
-## Code of Conduct
+<h2 id="tech"> :hammer_and_wrench: Technologies Used </h2>
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+| Name | Description |
+| --- | --- |
+| [Laravel 8](https://laravel.com/)  | A PHP web application framework that follows the Model-View-Controller architectural pattern. |
+| [Bootstrap 5](https://getbootstrap.com/) | A CSS & JavaScript library of UI components that aids the development of responsive websites. |
+| [Google Analytics API](https://developers.google.com/analytics) | A web service offered by Google that tracks and reports website traffic. |
+| [PayPal API](https://developer.paypal.com/docs/api/overview/) | A financial service that provides secure channels for online payments. |
+| [Heroku](https://www.heroku.com/home) | A cloud platform as a service that allows developers to deploy, run, and scale applications. |
+| Main Languages | PHP, HTML5 & CSS, JavaScript, SQL. |
 
-## Security Vulnerabilities
+<h2 id="screens"> :camera_flash: Screenshots </h2>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Coming soon...
