@@ -66,7 +66,7 @@ Link to the working demo of the app: https://upon-cart-app.herokuapp.com/
 | Name | Description |
 | --- | --- |
 | [Laravel 8](https://laravel.com/)  | A PHP web application framework that follows the Model-View-Controller architectural pattern. |
-| [Bootstrap 5](https://getbootstrap.com/) | A CSS & JavaScript library of UI components that aids the development of responsive websites. |
+| [Tailwind CSS](https://tailwindcss.com/) | A CSS framework that provides utility classes to aid website design. |
 | [Google Analytics API](https://developers.google.com/analytics) | A web service offered by Google that tracks and reports website traffic. |
 | [PayPal API](https://developer.paypal.com/docs/api/overview/) | A financial service that provides secure channels for online payments. |
 | [Heroku](https://www.heroku.com/home) | A cloud platform as a service that allows developers to deploy, run, and scale applications. |
