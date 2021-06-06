@@ -9,20 +9,21 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/tylerhgv/upon-cart-app/releases">
-    <img src="https://img.shields.io/github/tag/tylerhgv/upon-cart-app.svg">
-  </a>
-  <a href="https://github.com/tylerhgv/upon-cart-app/issues/">
-    <img src="https://img.shields.io/github/issues/tylerhgv/upon-cart-app.svg">
-  </a>
+  <a href="https://github.com/tylerhgv/upon-cart-app/releases"><img src="https://img.shields.io/github/v/tag/tylerhgv/upon-cart-app?label=%20version&style=for-the-badge"></a>
+  &nbsp;
+  <a href="https://github.com/tylerhgv/upon-cart-app/issues/"><img src="https://img.shields.io/github/issues-raw/tylerhgv/upon-cart-app?color=orange&style=for-the-badge"></a>
+  &nbsp;
+  <a href="https://github.com/tylerhgv/upon-cart-app/milestones/"><img src="https://img.shields.io/github/milestones/progress-percent/tylerhgv/upon-cart-app/1?color=brightgreen&style=for-the-badge"></a>    
 </p>
 
 <p align="center">
-  <a href="#overview">Project Overview</a> •
-  <a href="#demo">Demo</a> •
-  <a href="#features">Main Features</a> •
-  <a href="#tech">Technologies Used</a> •
-  <a href="#screens">Screenshots</a>
+  <strong>
+    <a href="#overview">Project Overview</a> •
+    <a href="#demo">Demo</a> •
+    <a href="#features">Main Features</a> •
+    <a href="#tech">Technologies Used</a> •
+    <a href="#screens">Screenshots</a>
+  </strong>
 </p>
 
 ---
