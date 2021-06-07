@@ -13,7 +13,7 @@
   &nbsp;
   <a href="https://github.com/tylerhgv/upon-cart-app/issues/"><img src="https://img.shields.io/github/issues-raw/tylerhgv/upon-cart-app?color=orange&style=for-the-badge"></a>
   &nbsp;
-  <a href="https://github.com/tylerhgv/upon-cart-app/milestones/"><img src="https://img.shields.io/github/milestones/progress-percent/tylerhgv/upon-cart-app/1?color=brightgreen&style=for-the-badge"></a>    
+  <a href="https://github.com/tylerhgv/upon-cart-app/milestones/"><img src="https://img.shields.io/github/milestones/progress-percent/tylerhgv/upon-cart-app/2?color=brightgreen&style=for-the-badge"></a>    
 </p>
 
 <p align="center">
