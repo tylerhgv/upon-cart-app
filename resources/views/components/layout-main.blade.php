@@ -6,7 +6,7 @@
         <title>{{ $title ?? 'UpOn Cart' }}</title>
 
         <!-- Add CSS & JS -->
-        <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+        <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
 
         <!-- Custom Fonts -->
         <link rel="preconnect" href="https://fonts.gstatic.com">
