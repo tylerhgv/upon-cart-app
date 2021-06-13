@@ -8,9 +8,8 @@
     </div>
     
     <div class="flex justify-center pt-20 pb-5 mx-10">
-    <p>Some text about who we are and what we do.</p>
-    <p>Resize the browser window to see that this page is responsive by the way.</p>
-    <p>Some text about who we are and what we do.</p>
-    <p>Resize the browser window to see that this page is responsive by the way.</p>
+    <p>Some text about who we are and what we do.Resize the browser window to see that this page is responsive by the way.
+    Some text about who we are and what we do.
+    Resize the browser window to see that this page is responsive by the way.</p>
     </div>
 </x-layout-main>
