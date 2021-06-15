@@ -1,10 +1,14 @@
+{{-- ---------------- --}}
 {{-- Footer Component --}}
+{{-- ---------------- --}}
+
+{{-- Begin View --}}
 <footer class="text-gray-500 bg-gray-200 font-title">
     {{-- Main div --}}
-    <div class="container px-5 py-5 mx-auto flex items-center sm:flex-row flex-col">
+    <div class="px-28 py-5 mx-auto flex items-center sm:flex-row flex-col">
 
         {{-- Logo --}}
-        <a href="{{ url('/home') }}" class="flex title-font font-black text-2xl items-center md:justify-start justify-center text-gray-600 transition duration-500 ease-in-out hover:text-accent-dark">
+        <a href="{{ route('home') }}" class="flex title-font font-black text-2xl items-center md:justify-start justify-center text-gray-600 transition duration-500 ease-in-out hover:text-accent-dark">
             UpOn Cart
         </a>
 
