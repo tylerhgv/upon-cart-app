@@ -15,9 +15,14 @@ use Illuminate\Support\Facades\Route;
 
 Route::redirect('/', '/home');
 
-Route::view('/home', 'home');
-Route::view('/browse', 'browse');
-Route::view('/about', 'about');
-Route::view('/contact', 'contact');
-Route::view('/profile', 'profile');
-Route::view('/cart', 'cart');
+// User must be authorized to use any part of the app
+Route::middleware(['auth', 'verified'])->group(function () {
+    Route::view('/home', 'home')->name('home');
+    Route::view('/browse', 'browse')->name('browse');
+    Route::view('/about', 'about')->name('about');
+    Route::view('/contact', 'contact')->name('contact');
+    Route::view('/profile', 'profile')->name('profile');
+    Route::view('/cart', 'cart')->name('cart');
+});
+
+require __DIR__.'/auth.php';
