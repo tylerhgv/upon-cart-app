@@ -24,7 +24,7 @@
         <div class="flex flex-col h-screen">
 
             {{-- Header --}}
-            <div class="flex-initial z-40">
+            <div class="flex-initial z-40 sticky top-0 self-stretch">
                 <x-navbar :currentActive="$currentActive" />
             </div>
 
