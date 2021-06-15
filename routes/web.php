@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::redirect('/', '/home');
+Route::redirect('/', '/login');
 
 // User must be authorized to use any part of the app
 Route::middleware(['auth', 'verified'])->group(function () {
