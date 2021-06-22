@@ -11,7 +11,7 @@
     </div>
 
     <div class="justify-center items-center text-center">
-        <p style="text-align:center">
+        <p style="text-center">
             Some text about who we are and what we do. Resize the browser window to see that this page is responsive by the way.
             Some text about who we are and what we do.
             Resize the browser window to see that this page is responsive by the way.
