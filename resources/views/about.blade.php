@@ -14,7 +14,7 @@
         <p style="text-align:center">
             Some text about who we are and what we do. Resize the browser window to see that this page is responsive by the way.
             Some text about who we are and what we do.
-            Resize the browser window to see that this page is responsive by the way.
+            Resize the browser window to see that this page is responsive by the way. Test.
         </p>
     </div>
 </x-main-layout>
